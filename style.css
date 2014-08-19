@@ -1,0 +1,189 @@
+body { background-color:#6A85C1;
+    margin: 2px auto;
+    padding: 0px;
+}
+#wholepage {margin: 0 auto;
+        width: 1270px;
+        text-align:left;
+		background-color:#FFC;
+		border:#000 1px solid;
+		
+}
+
+#spacer {
+
+display:block;
+width:17px;
+height:26px;
+float:left;
+border-bottom:#000 1px solid;
+    background-color:#FFC;
+
+}
+
+#spacer2 {
+
+display:block;
+width:138px;
+height:27px;
+border-right:#FFC 1px solid;
+    background-color:#FFC;
+}
+
+#spacer3 {
+
+display:block;
+width:138px;
+height:27px;
+border-left:#FFC 1px solid;
+    background-color:#FFC;
+}
+
+
+.idName a {
+	border:#000 1px solid;
+
+	line-height:1.5em;
+background:#fff 0 0;
+width:33px;
+height:25px;
+display:block;
+float:left;
+text-align:center;
+font-family:Arial, Helvetica, sans-serif;
+color:#036
+}
+.idName a:hover {
+background-color:#036; color:#fff
+}
+
+.idName2 a {
+	border:#000 1px solid;
+	line-height:1.5em;
+background:#036 0 0;
+width:33px;
+height:25px;
+display:block;
+float:left;
+text-align:center;
+font-family:Arial, Helvetica, sans-serif;
+color:#fff
+}
+.idName2 a:hover {
+background-color: #036; color:#fff
+}
+
+
+.idName3 a {
+	border-right:#000 1px solid;
+		border-top:#000 1px solid;
+			border-bottom:#000 1px solid;
+	line-height:1.5em;
+background:#fff 0 0;
+width:139px;
+height:25px;
+display:block;
+text-align:center;
+font-family:Arial, Helvetica, sans-serif;
+font-size:12px;
+color:#036
+}
+.idName3 a:hover {
+background-color: #036; color:#fff
+}
+
+.idName4 a {
+	border-right:#000 1px solid;
+		border-top:#000 1px solid;
+			border-bottom:#000 1px solid;
+	line-height:1.5em;
+background:#036 0 0;
+width:139px;
+height:25px;
+display:block;
+text-align:center;
+font-family:Arial, Helvetica, sans-serif;
+font-size:12px;
+color:#FFF;
+}
+.idName4 a:hover {
+background-color: #036;
+color:#FFF;
+}
+
+.idName5 a {
+	border-left:#000 1px solid;
+		border-top:#000 1px solid;
+			border-bottom:#000 1px solid;
+	line-height:1.5em;
+background:#fff 0 0;
+width:139px;
+height:25px;
+display:block;
+text-align:center;
+font-family:Arial, Helvetica, sans-serif;
+font-size:12px;
+color:#036
+}
+.idName5 a:hover {
+background-color: #036; color:#fff
+}
+
+.idName6 a {
+	border-left:#000 1px solid;
+		border-top:#000 1px solid;
+			border-bottom:#000 1px solid;
+	line-height:1.5em;
+background:#036 0 0;
+width:139px;
+height:25px;
+display:block;
+text-align:center;
+font-family:Arial, Helvetica, sans-serif;
+font-size:12px;
+color:#FFF;
+}
+.idName6 a:hover {
+background-color: #036;
+color:#FFF;
+}
+
+
+h1 { font-family:Arial, Helvetica, sans-serif; color:#036; }
+h3 { font-family:Arial, Helvetica, sans-serif; color:#036; }
+
+#content { float:none; width:940px; padding-left:10px; padding-right:10px; padding-bottom:10px; padding-top:30px; font-family:Arial, Helvetica, sans-serif; border:#000 1px solid; color:#000; font-size:13px; background-color:#fff;}
+
+#footer { font-family:Arial, Helvetica, sans-serif; color:#000; text-align:center; font-size:11px;}
+
+
+img{border:none}
+
+div#header {
+	width:100%
+    clear: both;
+    height: 180px;
+    padding: 1px;
+	
+}
+div#left {
+    float: left;
+    width: 140px;
+    background-color:#FFC;
+}
+div#right {
+    float: right;
+    width: 140px;
+    background-color:#FFC;
+}
+div#middle {
+    padding: 0px 154px 5px 154px;
+    margin: 0px;
+    background-color:#FFC;
+}
+div#footer {
+    clear: both;
+}
+
+#searchform { float:right; margin-top:140px; }
+#logo { float:left; padding:10px;  }
